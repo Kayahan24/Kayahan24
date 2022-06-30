@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kayahan24
-- 👀 I’m interested in Frontend Web Developer
-- 🌱 I’m currently learning React.js
+- 👀 I’m interested in Android Developer
+- 🌱 I’m currently learning Android Development
 
 <!---
 Kayahan24/Kayahan24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
